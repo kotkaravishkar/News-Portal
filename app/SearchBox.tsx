@@ -7,7 +7,7 @@ function SearchBox() {
 
     const [input, setInput] = useState("");
 
-    const handleSearch=(e)=>{}
+    const handleSearch=()=>{}
 
   return (
     <form 
