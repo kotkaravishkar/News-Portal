@@ -4,7 +4,7 @@ function feature() {
   return (
     <div>
 
-        hello
+you will redirected to a master branch
     </div>
   )
 }
