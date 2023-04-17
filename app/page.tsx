@@ -12,7 +12,6 @@ async function page() {
   
   return (
     <div>
-        this is just to check the pull request is working or not
         
     </div>
   )
