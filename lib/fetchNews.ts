@@ -10,7 +10,4 @@ const fetchNews = async ( category?: Category | string, keywords?: string, isDyn
 
 export default fetchNews;
 
-
-// Example Import
-
- // stepzen import curl "http://api.mediastack.com/v1/news?access_key="
+ // stepzen import curl "http://api.mediastack.com/v1/news?access_key=c182c9bcb0dd74ab0421f3b0dcd00fce&countries=us%2Cgb&limit=100&offset=0&sort=published_desc"
